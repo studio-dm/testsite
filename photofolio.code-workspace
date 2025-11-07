@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://github/studio-dm/photofolio"
+		},
+		{
+			"uri": "vscode-vfs://github/studio-dm/photofolio/assets/vendor"
+		}
+	],
+	"settings": {}
+}
